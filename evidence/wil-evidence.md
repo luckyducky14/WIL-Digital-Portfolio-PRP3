@@ -3,19 +3,20 @@
 ## Registration Page UI Development – API Property Group
 
 [![Whats-App-Image-2026-01-15-at-09-58-49.jpg](https://i.postimg.cc/2jbrbhFz/Whats-App-Image-2026-01-15-at-09-58-49.jpg)](https://postimg.cc/CdgW9ZQt)
+
 The image above shows a registration page developed for new API Property Group clients. During my Work Integrated Learning at PLUM Systems, I was responsible for transforming an initial blank black-and-white registration layout into a fully branded API Property Group registration page. This involved applying the correct colour scheme, layout structure, and input field styling to align with the client’s design requirements.
 
 ---
 
 ## Mobile Application Development Environment
 
-![Android Studio and Expo running on an emulator](expo-emulator-testing.png)
+[![Screenshot-2026-01-15-101934.png](https://i.postimg.cc/t4rMNmp3/Screenshot-2026-01-15-101934.png)](https://postimg.cc/bZtgzgGr)
 
 This image demonstrates the development environment used during the project, including Android Studio and an Android emulator. I used this setup to run and test the mobile application, verify UI changes, and ensure that the registration functionality worked correctly on mobile devices.
 
 ## Odoo ERP Timesheet Activities – PLUM Systems
 
-![Odoo ERP Timesheet Activities](odoo-timesheet.png)
+[![Screenshot-2025-11-05-184259.png](https://i.postimg.cc/5tYnq4Pv/Screenshot-2025-11-05-184259.png)](https://postimg.cc/B83TJ0fQ)
 
 The image above shows my logged timesheet activities on the PLUM Systems Odoo ERP platform. This system is used internally to track employee work hours, project allocation, and task descriptions.
 
