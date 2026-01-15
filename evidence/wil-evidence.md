@@ -4,15 +4,9 @@
 
 [![Whats-App-Image-2026-01-15-at-09-58-49.jpg](https://i.postimg.cc/2jbrbhFz/Whats-App-Image-2026-01-15-at-09-58-49.jpg)](https://postimg.cc/CdgW9ZQt)
 
-The image above shows a registration page developed for new API Property Group clients. During my Work Integrated Learning at PLUM Systems, I was responsible for transforming an initial blank black-and-white registration layout into a fully branded API Property Group registration page. This involved applying the correct colour scheme, layout structure, and input field styling to align with the client’s design requirements.
+The image above shows a registration screen from a mobile application developed for API Property Group. This artefact serves as evidence of my placement at PLUM Systems, as the application formed part of an internal client project developed and maintained by the company. My involvement in this system confirms that I was assigned development work within the PLUM Systems environment during my Work Integrated Learning period.
 
 ---
-
-## Mobile Application Development Environment
-
-[![Screenshot-2026-01-15-101934.png](https://i.postimg.cc/t4rMNmp3/Screenshot-2026-01-15-101934.png)](https://postimg.cc/bZtgzgGr)
-
-This image demonstrates the development environment used during the project, including Android Studio and an Android emulator. I used this setup to run and test the mobile application, verify UI changes, and ensure that the registration functionality worked correctly on mobile devices.
 
 ## Odoo ERP Timesheet Activities – PLUM Systems
 
