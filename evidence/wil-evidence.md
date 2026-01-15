@@ -2,8 +2,7 @@
 
 ## Registration Page UI Development – API Property Group
 
-![API Property Group Registration Screen](api-registration-screen.jpg)
-
+[![Whats-App-Image-2026-01-15-at-09-58-49.jpg](https://i.postimg.cc/2jbrbhFz/Whats-App-Image-2026-01-15-at-09-58-49.jpg)](https://postimg.cc/CdgW9ZQt)
 The image above shows a registration page developed for new API Property Group clients. During my Work Integrated Learning at PLUM Systems, I was responsible for transforming an initial blank black-and-white registration layout into a fully branded API Property Group registration page. This involved applying the correct colour scheme, layout structure, and input field styling to align with the client’s design requirements.
 
 ---
